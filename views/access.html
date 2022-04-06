@@ -118,49 +118,46 @@
             <div class="header-top">
                 <nav class="nav-top-menu">
                     <ul class="top-menu-ul">
-                        <li><a href="//www.ocean2youresort.co.kr">홈</a></li>
-                        <!--<li><a href="//www.ocean2youresort.co.kr">회원가입</a></li>-->
-                                                <li><a href="javascript: logout();">로그아웃</a></li>
-                        <li><a href="//www.ocean2youresort.co.kr/member/?p=AksTQCdE">마이페이지</a></li>
-                        <li><a href="//www.ocean2youresort.co.kr/reserve/?p=A1sQVQ==">예약내역조회</a></li>
-                                            </ul>
+                        <li><a href="/">홈</a></li>
+                        <li><a href="/singup">회원가입</a></li>
+                        <li><a href="/login">로그인</a></li>
+                        <li><a href="#">예약내역조회</a></li>
+                    </ul>
                 </nav>
             </div>
             <div class="header-container">
                 <div class="logo-area">
-                    <a href="//www.ocean2youresort.co.kr" class="top-logo"><img src="//img.ocean2youresort.co.kr/common/top_logo.png" alt="오션투유리조트소개"></a>
+                    <a href="/" class="top-logo">
                 </div>
                 <div class="btn-menu-area show-mobile">
                     <button type="button" class="btn-open-menu">
-                        <img src="//img.ocean2youresort.co.kr/common/m_btn_open_menu.png" alt="메뉴열기">
+                        <img src="{{ asset("img/common/m_btn_open_menu.png") }}" alt="메뉴열기">
                     </button>
                 </div>
                 <div class="menu-area">
                     <nav class="nav-main-menu">
                         <ul class="main-menu-ul">
-                            <li><a href="//www.ocean2youresort.co.kr/intro">오션투유리조트 소개</a></li>
-                            <li><a href="//www.ocean2youresort.co.kr/partner">제휴시설</a></li>
-                            <!--<li><a href="//www.ocean2youresort.co.kr/group">단체문의</a></li>-->
-                            <li><a href="//www.ocean2youresort.co.kr/tourist">관광지</a></li>
-                            <!--<li><a href="//www.ocean2youresort.co.kr/event">이벤트&뉴스</a></li>-->
-                            <li><a href="//www.ocean2youresort.co.kr/reserve">예약</a></li>
-                            <li><a href="//www.ocean2youresort.co.kr/guide">회원이용안내</a></li>
-                            <li><a href="//www.ocean2youresort.co.kr/board">고객센터</a></li>
+                            <li><a href="#">오션투유리조트 소개</a></li>
+                            <li><a href="#">제휴시설</a></li>
+                            <li><a href="#">관광지</a></li>
+                            <li><a href="#">회원카드</a></li>
+                            <li><a href="#">명의개서</a></li>
+                            <li><a href="/notice">고객센터</a></li>
                         </ul>
                     </nav>
                 </div>
                 <div class="service-area">
                     <div class="reserve-menu-area">
                         <nav class="nav-reserve">
-                            <a href="//www.ocean2youresort.co.kr/reserve" class="btn-go-reserve">
+                            <a href="#" class="btn-go-reserve">
                                 <div class="btn-contents-box">
-                                    <div class="icon-calendar"><img src="//img.ocean2youresort.co.kr/common/icon_calendar.png" alt="아이콘"></div>
+                                    <div class="icon-calendar"><img src="{{ asset("img/common/icon_calendar.png") }}" alt="아이콘"></div>
                                     <p class="p-name">통합예약</p>
                                 </div>
                             </a>
                             <ul class="reserve-ul">
-                                <li><a href="//www.ocean2youresort.co.kr/reserve">객실예약</a></li>
-                                <li><a href="//www.ocean2youresort.co.kr/reserve/?p=A1sQVQ==">예약확인</a></li>
+                                <li><a href="#">객실예약</a></li>
+                                <li><a href="#">예약확인</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -189,8 +186,7 @@
         <section class="subpage-top-sect subpage-access">
             <article class="subpage-top-area subpage-none-menu">
                 <div class="subpage-top-bg">
-                    <!-- <img src="{{ asset("img/main/main_intro_bg.jpg") }}" alt="탑이미지"> -->
-                    <img src="//img.ocean2youresort.co.kr/main/main_intro_bg.jpg" alt="탑이미지">
+                    <img src="{{ asset("img/main/main_intro_bg.jpg") }}" alt="탑이미지">
                 </div>
                 <div class="subpage-top-contents">
                     <div class="page-title">이용약관</div>
@@ -199,11 +195,11 @@
         </section>
 
         <style>
-            /* .wrap-access .d-cont{margin-top: 5.5rem;padding: 3.5rem 2.5rem;background-color: #f9f9f9;border-top: 2px solid #595959; font-size: 1.5rem;}
+            .wrap-access .d-cont{ margin-top: 5.5rem;padding: 3.5rem 2.5rem;background-color: #f9f9f9;border-top: 2px solid #595959; font-size: 1.5rem; text-align: left;}
             .wrap-access .d-cont .txt .title{ margin-top: 1rem; font-weight: bold;}
             .wrap-access .d-cont .txt ol{ margin: .5rem 0; line-height: 1.2;}
             .wrap-privacy .d-cont{ margin-top: 5.5rem; padding: 3.5rem 2.5rem; background-color: #f9f9f9; border-top: 2px solid #595959; font-size: 1.5rem; line-height: 1.2;}
-            .wrap-privacy .cm-s .tablepri { border: 1px solid #000; width: auto; line-height: 1.5em; margin-top: 10px; letter-spacing: -0.2px;} */
+            .wrap-privacy .cm-s .tablepri { border: 1px solid #000; width: auto; line-height: 1.5em; margin-top: 10px; letter-spacing: -0.2px;}
         </style>
 
 
@@ -339,7 +335,7 @@
         
         <div class="fn-up-wrap">
             <button type="button" class="btn-scroll-up">
-                <div class="img-box"><img src="//img.ocean2youresort.co.kr/common/goTop.jpg" alt="위로"></div>
+                <div class="img-box"><img src="{{ asset("img/common/goTop.jpg") }}" alt="위로"></div>
             </button>
         </div>
         
@@ -348,9 +344,9 @@
                 <div class="footer-menu-area">
                     <nav class="nav-footer-menu">
                         <ul class="footer-menu-ul">
-                            <li><a href="javascript:void(0)" class="btn-open-terms">이용약관</a></li>
-                            <li><a href="javascript:void(0)" class="btn-open-policy">개인정보 처리방침</a></li>
-                            <li><a href="//www.ocean2youresort.co.kr/intro/?p=AlMT">오시는 길</a></li>
+                            <li><a href="#" class="btn-open-terms">이용약관</a></li>
+                            <li><a href="#" class="btn-open-policy">개인정보 처리방침</a></li>
+                            <li><a href="#">오시는 길</a></li>
                         </ul>
                     </nav>
                     <div class="family-site-area">
@@ -362,9 +358,9 @@
                             <div class="family-site-contents">
                                 <ul class="site-ul site01">
                                     <li class="site-type">[호텔/리조트]</li>
-                                    <li><a href="//ocean2you.co.kr/" target="_blank">오션투유리조트</a></li>
-                                    <li><a href="//seabay.co.kr/" target="_blank">씨베이호텔</a></li>
-                                    <li><a href="//intoraon.co.kr/" target="_blank">인투라온호텔</a></li>
+                                    <li><a href="#" target="_blank">오션투유리조트</a></li>
+                                    <li><a href="#" target="_blank">씨베이호텔</a></li>
+                                    <li><a href="#" target="_blank">인투라온호텔</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -374,7 +370,7 @@
                     <div class="info-copy-area">
                         <div class="info-copy-cont copy-cont01">
                             <div class="copy-logo">
-                                <img src="//img.ocean2youresort.co.kr/common/footer_logo_ocean.png" alt="푸터로고">
+                                <img src="{{ asset("img/common/footer_logo_ocean.png") }}" alt="푸터로고">
                             </div>
                             <p class="copy-txt">
                                 (주)네오위즈 | 강원 고성군 죽왕면 삼포해변길 9 <br>

@@ -104,51 +104,51 @@
                         <ul class="slide-room-ul">
                             <!--주석처리(유지)-->
                             <!-- <li class="item">
-                    <div class="room-viewer-area">
-                        <ul class="room-viewer-ul">
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_01.jpg" alt="로얄스위트 오션뷰 테라스"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_02.jpg" alt="로얄스위트 오션뷰 테라스"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_03.jpg" alt="로얄스위트 오션뷰 테라스"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_04.jpg" alt="로얄스위트 오션뷰 테라스"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_05.jpg" alt="로얄스위트 오션뷰 테라스"></li>
+                                    <div class="room-viewer-area">
+                                        <ul class="room-viewer-ul">
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_01.jpg" alt="로얄스위트 오션뷰 테라스"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_02.jpg" alt="로얄스위트 오션뷰 테라스"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_03.jpg" alt="로얄스위트 오션뷰 테라스"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_04.jpg" alt="로얄스위트 오션뷰 테라스"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_roy_05.jpg" alt="로얄스위트 오션뷰 테라스"></li>
 
-                        </ul>
-                    </div>
-                    <div class="room-info-area">
-                        <div class="info-box">
-                            <div class="title-box">
-                                <div class="title-img">
-                                    <img src="https://static.neowizreserve.co.kr/img/facil/fcdetail/accom_text.png" alt="타이틀이미지">
-                                </div>
-                                <p class="title-main">로얄스위트 오션뷰 테라스</p>
-                                <p class="title-sub">
-                                    동해가 완벽하게 펼쳐진 개방형 객실뷰,
-                                    <br>
-                                    럭셔리타입의 프라이빗 스타일룸
-                                </p>
-                            </div>
-                            <div class="type-box">
-                                <div class="type-txt-box">
-                                    <p>
-                                        <span class="span-mark">ㆍ크기 :</span>
-                                        <span>46평</span>
-                                    </p>
-                                    <p>
-                                        <span class="span-mark">ㆍ수용인원 : </span>
-                                        <span>기준인원 6인(최대10인)</span>
-                                    </p>
-                                </div>
-                                <a href="../room/room01.html" class="btn-go">
-                                    <span>VIEW</span>
-                                    <span class="icon-go">
-                                        <img src="https://static.neowizreserve.co.kr/img/main/room/icon_arrow_go.png" alt="아이콘">
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="room-viewer-control"></div>
-                    </div>
-                </li> -->
+                                        </ul>
+                                    </div>
+                                    <div class="room-info-area">
+                                        <div class="info-box">
+                                            <div class="title-box">
+                                                <div class="title-img">
+                                                    <img src="https://static.neowizreserve.co.kr/img/facil/fcdetail/accom_text.png" alt="타이틀이미지">
+                                                </div>
+                                                <p class="title-main">로얄스위트 오션뷰 테라스</p>
+                                                <p class="title-sub">
+                                                    동해가 완벽하게 펼쳐진 개방형 객실뷰,
+                                                    <br>
+                                                    럭셔리타입의 프라이빗 스타일룸
+                                                </p>
+                                            </div>
+                                            <div class="type-box">
+                                                <div class="type-txt-box">
+                                                    <p>
+                                                        <span class="span-mark">ㆍ크기 :</span>
+                                                        <span>46평</span>
+                                                    </p>
+                                                    <p>
+                                                        <span class="span-mark">ㆍ수용인원 : </span>
+                                                        <span>기준인원 6인(최대10인)</span>
+                                                    </p>
+                                                </div>
+                                                <a href="../room/room01.html" class="btn-go">
+                                                    <span>VIEW</span>
+                                                    <span class="icon-go">
+                                                        <img src="https://static.neowizreserve.co.kr/img/main/room/icon_arrow_go.png" alt="아이콘">
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="room-viewer-control"></div>
+                                    </div>
+                                </li> -->
                             <!--./주석처리(유지)-->
                             <li class="item">
                                 <div class="room-viewer-area">
@@ -265,48 +265,48 @@
                             </li>
                             <!--주석처리(유지)-->
                             <!-- <li class="item">
-                    <div class="room-viewer-area">
-                        <ul class="room-viewer-ul">
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_01.jpg" alt="리노베이션콘도"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_02.jpg" alt="리노베이션콘도"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_03.jpg" alt="리노베이션콘도"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_04.jpg" alt="리노베이션콘도"></li>
-                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_05.jpg" alt="리노베이션콘도"></li>
-                        </ul>
-                    </div>
-                    <div class="room-info-area">
-                        <div class="info-box">
-                            <div class="title-box">
-                                <div class="title-img">
-                                    <img src="https://static.neowizreserve.co.kr/img/facil/fcdetail/accom_text.png" alt="타이틀이미지">
-                                </div>
-                                <p class="title-main">리노베이션 호텔 오션뷰</p>
-                                <p class="title-sub">
-                                    편안하고 아늑한 분위기의 침실과<br> 독립적 공간 활용이 매력적인 호텔형 오션뷰 룸
-                                </p>
-                            </div>
-                            <div class="type-box">
-                                <div class="type-txt-box">
-                                    <p>
-                                        <span class="span-mark">ㆍ크기 :</span>
-                                        <span>23평</span>
-                                    </p>
-                                    <p>
-                                        <span class="span-mark">ㆍ수용인원: </span>
-                                        <span>기준인원 4인(최대7인)</span>
-                                    </p>
-                                </div>
-                                <a href="../room/room04.html" class="btn-go">
-                                    <span>VIEW</span>
-                                    <span class="icon-go">
-                                        <img src="https://static.neowizreserve.co.kr/img/main/room/icon_arrow_go.png" alt="아이콘">
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="room-viewer-control"></div>
-                    </div>
-                </li> -->
+                                    <div class="room-viewer-area">
+                                        <ul class="room-viewer-ul">
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_01.jpg" alt="리노베이션콘도"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_02.jpg" alt="리노베이션콘도"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_03.jpg" alt="리노베이션콘도"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_04.jpg" alt="리노베이션콘도"></li>
+                                            <li class="viewer-item"><img src="https://static.neowizreserve.co.kr/img/facil/roomtype_re_ho_ov_05.jpg" alt="리노베이션콘도"></li>
+                                        </ul>
+                                    </div>
+                                    <div class="room-info-area">
+                                        <div class="info-box">
+                                            <div class="title-box">
+                                                <div class="title-img">
+                                                    <img src="https://static.neowizreserve.co.kr/img/facil/fcdetail/accom_text.png" alt="타이틀이미지">
+                                                </div>
+                                                <p class="title-main">리노베이션 호텔 오션뷰</p>
+                                                <p class="title-sub">
+                                                    편안하고 아늑한 분위기의 침실과<br> 독립적 공간 활용이 매력적인 호텔형 오션뷰 룸
+                                                </p>
+                                            </div>
+                                            <div class="type-box">
+                                                <div class="type-txt-box">
+                                                    <p>
+                                                        <span class="span-mark">ㆍ크기 :</span>
+                                                        <span>23평</span>
+                                                    </p>
+                                                    <p>
+                                                        <span class="span-mark">ㆍ수용인원: </span>
+                                                        <span>기준인원 4인(최대7인)</span>
+                                                    </p>
+                                                </div>
+                                                <a href="../room/room04.html" class="btn-go">
+                                                    <span>VIEW</span>
+                                                    <span class="icon-go">
+                                                        <img src="https://static.neowizreserve.co.kr/img/main/room/icon_arrow_go.png" alt="아이콘">
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="room-viewer-control"></div>
+                                    </div>
+                                </li> -->
                             <!--주석처리(유지)-->
                             <li class="item">
                                 <div class="room-viewer-area">

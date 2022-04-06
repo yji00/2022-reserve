@@ -370,7 +370,7 @@ body.of-hidden {overflow: hidden;}
 	.wrap-access .d-cont .txt .title{ margin-top: 1rem; font-weight: bold;}
 	.wrap-access .d-cont .txt ol{ margin: .5rem 0; line-height: 1.2;}
 	.wrap-privacy .d-cont{ margin-top: 5.5rem; padding: 3.5rem 2.5rem; background-color: #f9f9f9; border-top: 2px solid #595959; font-size: 1.5rem; line-height: 1.2;}
-	.wrap-privacy .cm-s .tablepri { border: 1px solid #000; width: auto; line-height: 1.5em; margin-top: 10px; letter-spacing: -0.2px;}
+	.wrap-privacy .cm-s .tablepri { border: 1px solid #000; width: auto; line-height: 1.5em; margin-top: 10px; letter-spacing: -0.2px; padding: 0!important;}
 	.term-warp {}
 
 	/* 패키지 탭 */
